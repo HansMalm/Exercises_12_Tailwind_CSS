@@ -1,0 +1,7 @@
+@import "../node_modules/tailwindcss/dist/lib.d.mts";
+
+@layer base {
+    body {
+        font-family: system-ui;
+    }
+}
